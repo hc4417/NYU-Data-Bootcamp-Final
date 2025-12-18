@@ -42,7 +42,7 @@ We fine tuned the performance of our XGBoost model by using GridSearch to test v
 ![pred-act](/assets/predicted_vs_actual_g.png)
 <sub>**Figure 3.** Comparison of XGBoost predicted prices and actual product prices across categories.</sub>
 
-A detailed graph of the performance of the XGB Model is shown in **Figure 3**, which depicts how the XGB predictions compared to the actual prices of different products across differing categories. Many of our predictions are populated around the diagonal line of perfect prediction. However, as product prices increase, predictions appear to become significantly more volatile. 
+A detailed graph of the performance of the XGB Model is shown in **Figure 3**, which depicts how the XGB predictions compared to the actual prices of different products across differing categories. Many of our predictions are populated around the diagonal line of perfect prediction, particularly at lower to middle price ranges. However, as product prices increase, predictions appear to become significantly more volatile. 
 
 ![resid-dist](/assets/residual_dist.png)
 <sub>**Figure 4.** Distribution of residuals by product category.</sub>
