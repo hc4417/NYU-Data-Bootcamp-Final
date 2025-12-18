@@ -1,12 +1,11 @@
 # Final Presentation Recording
-
 <div align = "center">
   
 [![Watch the video](https://img.youtube.com/vi/1gxI0EgiljA/hqdefault.jpg)](https://www.youtube.com/embed/1gxI0EgiljA)
+</br>
+Click thumbnail to watch or follow link: (https://www.youtube.com/embed/1gxI0EgiljA)
 
 </div>
-
-
 
 # Presentation Slides
 ![slide1](/presentation-slides/final_pres1.png)
