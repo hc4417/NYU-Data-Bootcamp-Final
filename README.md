@@ -16,7 +16,7 @@ Our dataset consisted of 622 rows and 15 columns. The columns included features 
 
 # 3. Methodology
 ## 3.1 Data Preprocessing & Feature Engineering 
-To preprocess our data for analysis, we used the Vision Transformer (ViT) model from Hugging Face to embed product images, the TfidfVectorizer to convert product descriptions and materials into numbers, OneHotEncoder to turn categorical data into binaries, and StandardScalar to standardize numerical data. 
+To preprocess our data for analysis, we used the Vision Transformer (ViT) model from Hugging Face to embed product images, the TfidfVectorizer to convert product descriptions and materials into numbers, OneHotEncoder to turn categorical data into binaries, and StandardScaler to standardize numerical data. 
 
 ## 3.2 Overview of Models
 When building our price prediction model, we tested and compared two contending bases for it: 
